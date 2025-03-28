@@ -1,0 +1,15 @@
+{
+    "name": "com.naxtorgames.assemblydefinitioncreator.editor",
+    "rootNamespace": "NaxtorGames.AssemblyDefinitionCreator",    
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

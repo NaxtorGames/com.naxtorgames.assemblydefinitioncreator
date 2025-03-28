@@ -1,0 +1,13 @@
+{
+  "name": "com.naxtorgames.assemblydefinitioncreator",
+  "version": "1.0.0",
+  "displayName": "Assembly Definition Creator",
+  "description": "A quick setup windows to create new assemblies.",
+  "author": "Naxtor Games",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Assembly",
+    "Asmdf"
+  ]  
+}
